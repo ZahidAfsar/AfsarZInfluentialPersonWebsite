@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Jom;
+    src: url(../assets/Jomhuria-Regular.ttf);
+}
+
+@font-face {
+    font-family: MetalMania;
+    src: url(../assets/MetalMania-Regular.ttf);
+}
+
