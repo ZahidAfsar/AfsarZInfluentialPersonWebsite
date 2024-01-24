@@ -7,5 +7,6 @@ Responsive
 Multiple pages - At least 4
 1 page must be why it's influential to you.
 Must be well designed
+// I used styles but it was inline and only for colors since I couldnt find ways to add custom colors to tailwind
 // Peer Reviewed by :
 // Peer Comment:
